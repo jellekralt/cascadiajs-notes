@@ -10,24 +10,26 @@ Thursday November 7th, 2019
 -------
 
 # Perf budgets
+
 * Milestone
 * Quantity
 * Rules
 
-* Building Sandspiel - an Interactive WebAssembly experience
-	* [Building Sandspiel - an Interactive WebAssembly experience, Max Bittker - YouTube](https://www.youtube.com/watch?v=sh6lIuX4Hzc)
+
+- Building Sandspiel - an Interactive WebAssembly experience
+	- [Building Sandspiel - an Interactive WebAssembly experience, Max Bittker - YouTube](https://www.youtube.com/watch?v=sh6lIuX4Hzc)
 
 * Ubiquitous
 * Mobile Only
 * Localize
 
-* WebAssembly 
-	* Offers predictable perf
-	* Is extremely portable
+- WebAssembly 
+	- Offers predictable perf
+	- Is extremely portable
 
 * Wasm by example
 
-* When should you be using web workers
+- When should you be using web workers
 	* [When should you be using Web Workers? — DasSur.ma](https://dassur.ma/things/when-workers/)
 
 * Workbox
@@ -41,22 +43,22 @@ Thursday November 7th, 2019
 # Kafka
 * Offline persistance
 
-* Kafka = Post Office
-* Producer = Sender
-* Consumer = Receiver
-* Topic = PO Box Wall
+- Kafka = Post Office
+- Producer = Sender
+- Consumer = Receiver
+- Topic = PO Box Wall
 	* Partitions = PO boxes
 	* Messages = Mail
 
 * Netflix > 6 Petabytes / day
 
-* `kafka-node`
-	* https://github.com/SOHU-Co/kafka-node
+- `kafka-node`
+	- https://github.com/SOHU-Co/kafka-node
 
 * Kafka + Docker
 	* `kafka-docker`
 
-* Kafka Pub Sub
+- Kafka Pub Sub
 	* Pub Sub wrapper around `kafka-node`
 	* https://github.com/NeuCleans/kafka-pub-sub
 
@@ -76,7 +78,7 @@ Thursday November 7th, 2019
 	* Cant scale it out easily
 	* Can't recover from disaster
 
-* Types of Tools
+- Types of Tools
 	* Configuration management
 		* Chef 
 		* Puppet
@@ -89,11 +91,11 @@ Thursday November 7th, 2019
 
 * They're declarative: we express the *what* an the tools determine the *how*
 
-* Reliable
-* Repeatable
-* Replicable
-* Testable
-* Self documentational
+- Reliable
+- Repeatable
+- Replicable
+- Testable
+- Self documentational
 
 * App-friendly resources
 	* Function
@@ -101,9 +103,9 @@ Thursday November 7th, 2019
 	* Event Record
 	* Route
 
-* AWS Cloud Development Kit
-	* Javascript
-* Pulumi
+- AWS Cloud Development Kit
+	- Javascript
+- Pulumi
 
 
 
@@ -153,24 +155,22 @@ https://github.com/giladgray/ejected-react-app
 
 #  How User Centered Build Time Integration Tests Benefit You and Your Users
 * Immediate feedback
-	- build time
+	* build time
 * Isolated to code
 	* Network isolation
 * User interactions
 	* test all units of application together
 
-* Puppeteer Request Interception
-* Nock library
+- Puppeteer Request Interception
+- Nock library
 
 * Axe-puppeteer
 
-* User centered build time integration tests
-	* Gives devs fast, actionable feedback
-	* Test if users can achieve the goal
+- User centered build time integration tests
+	- Gives devs fast, actionable feedback
+	- Test if users can achieve the goal
 
----
 
-# Fair Trade Open Source
 
 
 
