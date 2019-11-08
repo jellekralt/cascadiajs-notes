@@ -129,6 +129,34 @@ Friday November 8th, 2019
 * proxx.app
 * bit.ly/proxx-wbn (reqs canary 80+)
 
+---
 
+# Rebuilding Slack
 
+* Load less code upfront
+* Declutter your bott data
+* Prioritize initial API calls
 
+- Problems:
+  1. lots of templates
+  2. lots of code
+
+* Solutions:
+  1. Client-side rendering
+  2. Small boot payload
+  3. Code splitting
+  4. Use SW to cache assets
+
+- Problem:
+  - Lots of data required to boot
+
+* old: Eager data loading / complete model
+* new: Lazy loading / incomplete model
+
+- Solution:
+  - Embrace the unknown
+
+* Solution
+  - Prioritize 
+  - Parallelize
+  - Start API calls early 
