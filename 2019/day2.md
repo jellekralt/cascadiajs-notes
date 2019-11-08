@@ -32,3 +32,21 @@ Friday November 8th, 2019
   * few solid state relays
 * d-k.im/cascadia
 
+---
+
+# Controlling drones with JavaScript
+
+* RyzeTech Tello
+  * $100
+  * 95 gram
+  * UDP interface
+  * No GPS
+  * Downwards facing camera
+    * Visual recognition of patterns on the ground
+    * Keep the drone in place
+    * Track distance moved
+* UDP
+  * Best effort, no immediate feedback
+* Mission Pads
+  * Recognised by downwards facing camera
+  
